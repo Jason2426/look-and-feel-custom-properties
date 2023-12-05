@@ -56,7 +56,7 @@ Als je al vaker met custom properties hebt gewerkt, lees dan het artikel [A comp
 
 Deze opdracht is done als:
 
-- [ ] je hebt custom properties gebruikt en in de wiki uitgelegd hoe jouw code werkt
-- [ ] je hebt een duidelijke structuur toegepast in jouw CSS bestand(en) en dit gedocumenteerd in de wiki
+- [x] je hebt custom properties gebruikt en in de wiki uitgelegd hoe jouw code werkt
+- [x] je hebt een duidelijke structuur toegepast in jouw CSS bestand(en) en dit gedocumenteerd in de wiki
 
 
